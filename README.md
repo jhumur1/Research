@@ -45,12 +45,6 @@ Ghost Convolution (GhostConv) layers were integrated into YOLOv11 to reduce feat
 
 (Insert architecture diagram here)
 
-## ⚙️ Installation
-
-```bash
-git clone https://github.com/yourusername/Enhanced-YOLOv11-EgoHands-Detection.git
-cd Enhanced-YOLOv11-EgoHands-Detection
-pip install -r requirements.txt
 
 📄 Citation
 
